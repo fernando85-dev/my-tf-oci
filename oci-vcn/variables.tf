@@ -1,0 +1,15 @@
+variable "tenancy_ocid" {}
+variable "user_ocid" {}
+variable "fingerprint" {}
+variable "private_key_path" {}
+variable "region" {}
+variable "availability_domain" {}
+variable "compartment_id" {}
+variable "vcn_cidr" {}
+variable "display_name" {}
+variable "subnet_public_cidr" {}
+variable "subnet_private_cidr" {}
+variable "display_name_subnet_pub" {}
+variable "display_name_subnet_prv" {}
+variable "display_name_internet_gateway" {}
+variable "display_name_nateway_gateway" {}

@@ -1,0 +1,13 @@
+variable "tenancy_ocid" {}
+variable "user_ocid" {}
+variable "fingerprint" {}
+variable "private_key_path" {}
+variable "region" {}
+variable "availability_domain" {}
+variable "compartment_ocid" {}
+variable "name_compartment" {}
+variable "bucket_terraform" {}
+variable "shape" {}
+variable "display_name" {}
+variable "subnet_id_pub" {}
+variable "source_ocid" {}
